@@ -1,18 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:31.952689
+#+DATE: 2015-08-30 20:55:32.564265
 #+TITLE: 瑜伽師地論分門記
 #+PROPERTY: CBETA_ID T85n2801
 #+PROPERTY: ID KR6n0009
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2801
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6n0009_T_003-0885c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
+¶
 
- 瑜伽師論本地分中獨覺地分門記一卷¶
-
-本事分獨覺地
 本地分第二廣解分十七中第十四釋獨覺地¶
 分四。一明生起　二略答。三列名分五如論。¶
 四別釋分五　第一明種姓相分三。一總問。
