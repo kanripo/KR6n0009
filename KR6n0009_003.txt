@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:33.850023
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:53
 #+TITLE: 瑜伽師地論分門記
 #+PROPERTY: CBETA_ID T85n2801
 #+PROPERTY: ID KR6n0009
