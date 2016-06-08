@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:32.573576
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:53
 #+TITLE: 瑜伽師地論分門記
 #+PROPERTY: CBETA_ID T85n2801
 #+PROPERTY: ID KR6n0009
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2801
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6n0009_T_004-0886b> 
 #+PROPERTY: JUAN 4
 ¶
@@ -821,7 +821,7 @@
 犯。四依知彼有智力明無犯。五依餘人攝受¶
 明無犯。六依調伏明無犯。七依知起嫌恨明¶
 無犯　八依發惡言明無犯。九依倒受明無犯。¶
-十依無愛敬明無犯。十一依性弊[怡-台+龍]明無犯。¶
+十依無愛敬明無犯。十一依性弊𢤱明無犯。¶
 
 二別釋分四十四中第三十七依不報恩立學¶
 處相分四。一立犯人。二顯過相。三明犯相分¶
